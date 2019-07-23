@@ -18,3 +18,5 @@ what's up peter
 yes sir I love you
 
 In Java executable jar file and normal jar file are different
+
+Idians are smart but I don't know why they are every where in the world
