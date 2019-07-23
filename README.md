@@ -5,7 +5,7 @@ Library GameEngine made in Java by Dominic Jiang
 
 1. Dominic Jiang for the production of the library and library development
 
-## How to test this library on Mac OS or Windows
+## How To Test This Library On Mac OS Or Windows
 
 1. Download GameEngine.jar 
 
