@@ -12,3 +12,5 @@ Library GameEngine made in Java by Dominic Jiang
 2. Make sure you have JVM downloaded if not find ways to download for your operating system
 
 3. Open terminal and type java (space) -jar (space) and drag the executable jar file in and press enter 
+
+das
