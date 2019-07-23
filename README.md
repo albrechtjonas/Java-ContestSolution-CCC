@@ -23,3 +23,5 @@ Ok Man this time is the last time
 Haha this is a bad idea
 
 Many algorithms to make me sick my boy
+
+qcutally to move away from firneds isn't a bad idea
