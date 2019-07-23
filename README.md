@@ -13,12 +13,3 @@ Library GameEngine made in Java by Dominic Jiang
 
 3. Open terminal and type java (space) -jar (space) and drag the executable jar file in and press enter 
 
-what's up peter
-
-yes sir I love you
-
-In Java executable jar file and normal jar file are different
-
-Idians are smart but I don't know why they are every where in the world
-
-WHo sucks I do or is you
