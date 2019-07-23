@@ -16,3 +16,5 @@ Library GameEngine made in Java by Dominic Jiang
 what's up peter
 
 yes sir I love you
+
+In Java executable jar file and normal jar file are different
