@@ -17,7 +17,6 @@ Library GameEngine made in Java without additional libraries by Dominic Jiang
 
 4. And the algorithm should be ready to go
 
-<img width="854" alt="Screen Shot 2019-07-25 at 19 53 25" src="https://user-images.githubusercontent.com/49256436/61957659-55ec3280-aff2-11e9-8eb2-39437f44d6b1.png">
 
 ## Command Center
 
