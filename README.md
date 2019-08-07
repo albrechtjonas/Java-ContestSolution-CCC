@@ -25,3 +25,4 @@ Library GameEngine made in Java without additional libraries by Dominic Jiang
 
 This is the library that uses for common primitives type checking
 htis
+1
