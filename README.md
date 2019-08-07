@@ -28,3 +28,4 @@ htis
 1
 2
 this si me
+common type for array
