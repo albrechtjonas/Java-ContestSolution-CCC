@@ -21,6 +21,8 @@ Library GameEngine made in Java without additional libraries by Dominic Jiang
 ## ScreenShot
 
 # For More Libraries And Coding Projects
+
+woye freichang
 # Please Follow dominicjiang On Github
 
 dsa
@@ -34,6 +36,8 @@ so waht do we do
 
 is this the last chance or what
 
+
+nishiyigehaoren
 
 tjis is to slow
 for your body
