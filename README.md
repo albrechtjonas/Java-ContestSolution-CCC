@@ -50,6 +50,8 @@ this is a good library
 
 OK so what is going on
 
+26
+
 1
 
 I have no idea what I goona program dude
@@ -69,6 +71,8 @@ laoma kuadidia
 I reaylly appr
 I am just giving up contributions
 eiat
+
+25
 
 whie a stou knowe eve
 
