@@ -44,6 +44,8 @@ OK so what is going on
 
 1
 
+I have no idea what I goona program dude
+
 nest yeat the champ is the clippers
 so what is up baby
 laoma kuadidia
