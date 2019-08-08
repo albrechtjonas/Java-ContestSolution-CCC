@@ -67,6 +67,8 @@ I am just giving up contributions
 eiat
 
 whie a stou knowe eve
+
+I am just being too smart on coding this kind of stuff
 cause I am 
 
 this is all what ai am trying to dojust too tired as you know
