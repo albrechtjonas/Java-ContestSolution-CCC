@@ -57,6 +57,8 @@ man I love you guys
 
 runnig is good 
 
+I don't why girhub is so slow mna
+
 22up baby
 laoma kuadidia
 
