@@ -48,4 +48,6 @@ nest yeat the champ is the clippers
 so what is up baby
 laoma kuadidia
 
-I reaylly appreiate every body for this opportunityn guolai ba
+I reaylly appreiat
+
+whie a stou knowe every body for this opportunityn guolai ba
