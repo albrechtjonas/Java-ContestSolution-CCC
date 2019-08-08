@@ -44,4 +44,6 @@ OK so what is going on
 
 nest yeat the champ is the clippers
 so what is up baby
-laoma kuadidian guolai ba
+laoma kuadidia
+
+I reaylly appreiate every body for this opportunityn guolai ba
