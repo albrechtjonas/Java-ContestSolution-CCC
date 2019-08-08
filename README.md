@@ -51,6 +51,8 @@ I have no idea what I goona program dude
 nest yeat the champ is the clippers
 so what is
 
+man I love you guys
+
 22up baby
 laoma kuadidia
 
