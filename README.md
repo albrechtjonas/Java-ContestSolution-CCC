@@ -42,6 +42,6 @@ OK so what is going on
 
 1
 
-nest yeat the champ is
+nest yeat the champ is the clippers
 so what is up baby
 laoma kuadidian guolai ba
