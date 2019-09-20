@@ -22,5 +22,3 @@ Library GameEngine made in Java without additional libraries by Dominic Jiang
 
 # For More Libraries And Coding Projects
 # Please Follow dominicjiang On Github
-
-身体好很重要
