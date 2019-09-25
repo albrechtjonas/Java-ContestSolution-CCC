@@ -27,3 +27,5 @@ lizhiyuan
 yes peter is felt very bad
 
 I left too
+
+charles and peter one of them are considered as my best friend as you know
