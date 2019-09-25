@@ -1,5 +1,6 @@
 package Main;
 
+import java.awt.BorderLayout;
 import java.awt.Canvas;
 import java.awt.Dimension;
 
@@ -9,47 +10,57 @@ public class GameWindow {
 	
 	private String title="GameEngine";
 	
-	private Dimension dimension=new Dimension(600,600);
+	private int width=600;
+	
+	private int height=600;
 	
 	private JFrame frame;
 	
 	private Canvas canvas;
 	
 	public GameWindow() {
-		createWindow();
+		
 	}
 	
-	public GameWindow(Dimension dimension) {
-		this.dimension=dimension;
-		createWindow();
+	public GameWindow(int width,int height) {
+		this.width=width;
+		this.height=height;
 	}
 	
-	public GameWindow(String title,Dimension dimension) {
+	public GameWindow(String title,int width,int height) {
 		this.title=title;
-		this.dimension=dimension;
-		createWindow();
+		this.width=width;
+		this.height=height;
 	}
 	
-	private void createWindow() {
+	public void createWindow() {
 		frame=new JFrame();
 		frame.setTitle(title);
-		frame.setSize(dimension);
-		frame.setResizable(false);
-		frame.setVisible(true);
-		frame.setLocationRelativeTo(null);
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setSize(width,height);
 		
 		canvas=new Canvas();
-		canvas.setPreferredSize(dimension);
-		canvas.setMaximumSize(dimension);
-		canvas.setMinimumSize(dimension);
+		canvas.setPreferredSize(new Dimension(width,height));
+		canvas.setMaximumSize(new Dimension(width,height));
+		canvas.setMinimumSize(new Dimension(width,height));
+		frame.getContentPane().add(canvas,BorderLayout.CENTER);
 		
-		frame.add(canvas);
 		frame.pack();
+		frame.setVisible(true);
+		frame.setResizable(false);
+		frame.setLocationRelativeTo(null);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 	
-	public Dimension getDimension() {
-		return dimension;
+	public String getTitle() {
+		return title;
+	}
+	
+	public int getWidth() {
+		return width;
+	}
+	
+	public int getHeight() {
+		return height;
 	}
 	
 	public JFrame getFrame() {
@@ -59,4 +70,5 @@ public class GameWindow {
 	public Canvas getCanvas() {
 		return canvas;
 	}
+	
 }
