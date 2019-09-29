@@ -1,5 +1,5 @@
 package Interface;
 
 public interface Tickable {
-	public void tick();
+	public abstract void tick();
 }
