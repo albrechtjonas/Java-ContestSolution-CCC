@@ -1,4 +1,4 @@
-package CCCSenior2019;
+package Senior2019;
 
 import java.util.Scanner;
 
@@ -12,12 +12,7 @@ public class ProblemS1Flipper {
 		new ProblemS1Flipper();
 	}
 	
-	private ProblemS1Flipper() {
-		System.out.println("Original Grid");
-		printGrid(grid);
-		
-		System.out.println("\nOperation?");
-		
+	private ProblemS1Flipper() {	
 		scanner=new Scanner(System.in);
 		
 		String input=scanner.nextLine();
@@ -32,7 +27,6 @@ public class ProblemS1Flipper {
 			}
 		}
 		
-		System.out.println("Final Grid");
 		printGrid(grid);
 	}
 	
