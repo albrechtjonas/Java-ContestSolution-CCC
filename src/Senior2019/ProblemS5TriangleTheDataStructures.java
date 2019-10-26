@@ -93,7 +93,6 @@ public class ProblemS5TriangleTheDataStructures {
 			return false;
 		}else {
 			for(int i=x;i<triangle.length;i++) {
-				System.out.println(triangle[i].length);
 				if(triangle[i].length<y+depth) {
 					return false;
 				}
