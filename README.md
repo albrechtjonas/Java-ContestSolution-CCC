@@ -19,5 +19,5 @@ yes it feels bad actually as you know
 you need to be smart kind of 
 dsa
 that is ok  reight?
-I love you man this is actually great?
+I love you man this is actually great?I think I am actually smart as hell
 f;ds l;'afsdscience aprtment?
