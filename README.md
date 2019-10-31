@@ -24,3 +24,4 @@ f;ds l;'afsdscience aprtment?
 I love you my brother
 that feels much better to be hoinest with you my d=ear?
 please don't my man what is your problem
+that is ok though no worries abou it 
